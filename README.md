@@ -9,8 +9,8 @@
 #### E-Learning
 [Samlat innehåll för hela kursen](https://github.com/Lexicon-Frontend-2024/e-learning-material/edit/main/README.md)
 ###### Utvalda för denna veckan:
-* [CSS Grid](https://app.pluralsight.com/library/courses/css-grid-creating-layouts/table-of-contents)
 * [Flexbox](https://app.pluralsight.com/library/courses/css-flexbox-layout/table-of-contents)
+* [CSS Grid](https://app.pluralsight.com/library/courses/css-grid-creating-layouts/table-of-contents)
 #### Video
 * [Scrimba HTML och CSS, forts.](https://scrimba.com/learn/htmlandcss)
 #### Läsning
@@ -22,8 +22,8 @@
 
 
 ### Övningar
-* [Flexbox](https://github.com/Lexicon-Frontend-2024/exercise-html-css-flexbox-bootcamp)
-* [CSS Grid](https://github.com/Lexicon-Frontend-2024/exercise-html-css-grid-calendar)
+* [Flexbox-övning](https://github.com/Lexicon-Frontend-2024/exercise-html-css-flexbox-bootcamp)
+* [CSS Grid-övning](https://github.com/Lexicon-Frontend-2024/exercise-html-css-grid-calendar)
 
 
 ## HTML & CSS
