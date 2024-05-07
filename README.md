@@ -18,10 +18,6 @@
 * [Flexbox Guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 * [CSS Grid Guide](https://grid.malven.co/)
 * [HTML-taggar](https://www.w3schools.com/tags/)
-* [Allmänt om HTML och CSS](https://css-tricks.com/where-do-you-learn-html-css-in-2020/)
-* [CSS vokabulär](http://apps.workflower.fi/vocabs/css/en#comment)
-* [CSS-specificitet](https://specificity.keegan.st/)
-* [Mer CSS-specificitet](https://css-tricks.com/specifics-on-css-specificity/)
 #### Spel
 * [Grid Garden](https://cssgridgarden.com/)
 * [Grid Attack](https://codingfantasy.com/games/css-grid-attack)
