@@ -1,11 +1,11 @@
 # Schema Vecka 22
 ###### HTML & CSS, vecka 2 av 5
 
-### Mål för veckan
+## Mål för veckan
 1. Följa en skiss för att skapa en webbsida med hjälp av Flexbox
 2. Följa en skiss för att skapa en webbsida med hjälp av CSS Grid
 3. Förståelse för varför responsivitet på webben är viktigt
-### Material
+## Material
 #### E-Learning
 [Samlat innehåll för hela kursen](https://github.com/Lexicon-Frontend-2024/e-learning-material/edit/main/README.md)
 ###### Utvalda för denna veckan:
@@ -28,12 +28,14 @@
 * [Flexbox Defence](http://www.flexboxdefense.com/)
 
 
-### Övningar
+## Övningar
 * [Flexbox-övning](https://github.com/Lexicon-Frontend-2024/exercise-html-css-flexbox-bootcamp)
 * [CSS Grid-övning](https://github.com/Lexicon-Frontend-2024/exercise-html-css-grid-calendar)
 
 
-## HTML & CSS
+
+
+# HTML & CSS
 Antal veckor: 5
 
 **Kursbeskrivning:** Syftet med kursen är att den studerande ska få de kunskaper, färdigheter och kompetenser inom HTML och CSS som krävs för att kunna arbeta som frontendutvecklare. 
