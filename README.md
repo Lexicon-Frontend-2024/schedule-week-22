@@ -2,8 +2,8 @@
 ###### HTML & CSS, vecka 2 av 5
 
 ### Mål för veckan
-1. Skapa en enkel HTML-sida där Flexbox används för att få elementen att ligga rätt
-2. Skapa en enkel HTML-sida där CSS Grid används för att få elementen att ligga rätt
+1. Följa en skiss för att skapa en webbsida med hjälp av Flexbox
+2. Följa en skiss för att skapa en webbsida med hjälp av CSS Grid
 3. Förståelse för varför responsivitet på webben ör viktigt
 ### Material
 #### E-Learning
