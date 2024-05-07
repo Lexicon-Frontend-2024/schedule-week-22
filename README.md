@@ -4,7 +4,7 @@
 ### Mål för veckan
 1. Följa en skiss för att skapa en webbsida med hjälp av Flexbox
 2. Följa en skiss för att skapa en webbsida med hjälp av CSS Grid
-3. Förståelse för varför responsivitet på webben ör viktigt
+3. Förståelse för varför responsivitet på webben är viktigt
 ### Material
 #### E-Learning
 [Samlat innehåll för hela kursen](https://github.com/Lexicon-Frontend-2024/e-learning-material/edit/main/README.md)
