@@ -9,13 +9,10 @@
 #### E-Learning
 [Samlat innehåll för hela kursen](https://github.com/Lexicon-Frontend-2024/e-learning-material/edit/main/README.md)
 ###### Utvalda för denna veckan:
-* [Web Development with HTML & CSS: The Big Picture](https://app.pluralsight.com/library/courses/html-css-web-development-big-picture/table-of-contents)
-* [HTML Fundamentals](https://app.pluralsight.com/library/courses/html-fundamentals/table-of-contents)
-* [HTML and CSS Fundamentals](https://app.pluralsight.com/library/courses/html-css-fundamentals/table-of-contents)
-* [Git generellt](https://app.pluralsight.com/library/courses/git-big-picture/table-of-contents)
-* [Git-grunder](https://app.pluralsight.com/library/courses/fundamentals-git/table-of-contents)
+* [CSS Grid](https://app.pluralsight.com/library/courses/css-grid-creating-layouts/table-of-contents)
+* [Flexbox](https://app.pluralsight.com/library/courses/css-flexbox-layout/table-of-contents)
 #### Video
-* [Scrimba HTML och CSS](https://scrimba.com/learn/htmlandcss)
+* [Scrimba HTML och CSS, forts.](https://scrimba.com/learn/htmlandcss)
 #### Läsning
 * [HTML-taggar](https://www.w3schools.com/tags/)
 * [Allmänt om HTML och CSS](https://css-tricks.com/where-do-you-learn-html-css-in-2020/)
