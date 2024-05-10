@@ -2,8 +2,8 @@
 ###### HTML & CSS, vecka 2 av 5
 
 ## Mål för veckan
-1. Följa en skiss för att skapa en webbsida med hjälp av Flexbox
-2. Följa en skiss för att skapa en webbsida med hjälp av CSS Grid
+1. Förståelse i hur man kan följa en skiss för att skapa en webbsida med hjälp av Flexbox
+2. Förståelse i hur man kan följa en skiss för att skapa en webbsida med hjälp av CSS Grid
 3. Förståelse för varför responsivitet på webben är viktigt
 ## Material
 #### E-Learning
