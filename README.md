@@ -29,8 +29,6 @@
 * [Flexbox-övning](https://github.com/Lexicon-Frontend-2024/exercise-html-css-flexbox-bootcamp)
 * [Caffe Retro](https://github.com/Lexicon-Frontend-2024/exercise-html-css-caffe-retro)
 * [Poster Shop](https://github.com/Lexicon-Frontend-2024/exercise-html-css-poster-shop)
-* [CSS Grid-övning](https://github.com/Lexicon-Frontend-2024/exercise-html-css-grid-calendar)
-
 
 
 
